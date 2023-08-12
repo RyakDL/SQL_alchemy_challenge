@@ -10,6 +10,7 @@ Instuctions:
 
 References: 
 1) Climate starter https://github.com/Satish2611/sqlalchemy-challenge/blob/master/climate_starter.ipynb, accessed 8/10/23
-    Comment: looked at code but wrote my own. https://stackoverflow.com/questions/17223174/returning-distinct-rows-in-sqlalchemy-with-sqlite, accessed 8/10/23
+    Comment: looked at code but wrote my own.
+2) https://stackoverflow.com/questions/17223174/returning-distinct-rows-in-sqlalchemy-with-sqlite, accessed 8/10/23
 3) Climate app https://github.com/MThorpester/sqlalchemy-challenge, accessed 8/12/23
     Comment: Looked at code but wrote my own. 
